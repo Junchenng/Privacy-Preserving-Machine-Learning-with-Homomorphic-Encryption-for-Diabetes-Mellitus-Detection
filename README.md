@@ -41,7 +41,7 @@ The codebase is modularized into three sequential steps to separate concerns bet
     * Demonstrates key generation (Public/Private), data encryption, and decryption verification.
     * Simulates a secure pipeline where the model is tested against decrypted data to verify integrity.
 
-## ⚙️ Installation & Requirements
+## Installation & Requirements
 
 The project is implemented in Python (>= 3.8). Install the required dependencies using the command below:
 
