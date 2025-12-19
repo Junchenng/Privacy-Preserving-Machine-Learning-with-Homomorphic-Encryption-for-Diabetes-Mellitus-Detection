@@ -48,7 +48,11 @@ The project is implemented in Python (>= 3.8). Install the required dependencies
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn xgboost catboost imbalanced-learn phe
 ```
+or you may install it through the requirements.txt
 
+```bash
+pip install -r requirements.txt
+```
 **Key Libraries:**
 * `scikit-learn` & `imbalanced-learn`: For standard ML pipelines and resampling.
 * `phe`: Python Paillier library for Homomorphic Encryption.
