@@ -1,4 +1,3 @@
-# 2_model_training.py
 import pandas as pd
 import numpy as np
 import pickle
@@ -113,3 +112,4 @@ def plot_metrics(df):
 if __name__ == "__main__":
     results_df = train_models()
     plot_metrics(results_df)
+
